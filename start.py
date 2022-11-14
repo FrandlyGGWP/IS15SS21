@@ -1,2 +1,1 @@
-import telebot;
-bot = telebot.TeleBot('');
+print('Hello, World')
